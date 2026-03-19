@@ -6,8 +6,6 @@
   "proxied": true,
   "records": {
     "CNAME": "0e7f8d2df266d83c.vercel-dns-017.com",
-    "TXT": {
-      "_vercel": "vc-domain-verify=www.shelfspace.is-a.dev,d78a38f1a77fcc99efec"
-    }
+    "TXT": ["vc-domain-verify=www.shelfspace.is-a.dev,d78a38f1a77fcc99efec"]
   }
 }
